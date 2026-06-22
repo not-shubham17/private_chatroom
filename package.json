@@ -1,0 +1,13 @@
+{
+  "name": "private-chatroom",
+  "version": "1.0.0",
+  "description": "Anonymous E2E encrypted chatroom — zero knowledge, zero logs, zero trust",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
